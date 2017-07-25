@@ -83,4 +83,4 @@ Instalasi
 lite php7.0-apc -y
 > $ sudo systemctl restart apache2 
 	
-## Screenshot
+## Cara Pemaikaian
