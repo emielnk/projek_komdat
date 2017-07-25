@@ -85,14 +85,14 @@ lite php7.0-apc -y
 	
 ## Cara Pemaikaian
 
-###Konfigurasi
+### Konfigurasi
 
-	1. ini adalah halaman pertama setelah berhasil menginsttal humhub
-	![1](https://github.com/emielnk/projek_komdat/blob/master/image/1.PNG)
+1. ini adalah halaman pertama setelah berhasil menginsttal humhub
+![1](https://github.com/emielnk/projek_komdat/blob/master/image/1.PNG)
 	
-	2. Buatlah nama social network yang kalian inginkan
-	![2](https://github.com/emielnk/projek_komdat/blob/master/image/2.PNG)
+2. Buatlah nama social network yang kalian inginkan
+![2](https://github.com/emielnk/projek_komdat/blob/master/image/2.PNG)
 	
-	3. pilih konfigurasi keamanan social media anda
-	![3](https://github.com/emielnk/projek_komdat/blob/master/image/3.PNG)
+3. pilih konfigurasi keamanan social media anda
+![3](https://github.com/emielnk/projek_komdat/blob/master/image/3.PNG)
 
