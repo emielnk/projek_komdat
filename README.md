@@ -132,3 +132,8 @@ Sosial media sekarang ini sudah banyak berkembang dikalangan masyarakat. Hampir 
 -	Elgg menyediakan plugin API sehingga dapat diintegrasikan dengan website-website lain.
 -	OSSN menyediakan feture multilanguage sehingga dapat diimplentasikan dalam berbagai pilihan bahasa yang tersedia.
 -	Elgg dan OSSN memiliki komunitas yang lebih luas dibandingkan Humhab sehingga dapat memecahkan masalah lebih cepat dan tepat.
+
+## Refrensi
+-	https://www.humhub.org/
+-	https://www.linuxhelp.com/how-to-install-humhub-in-ubuntu/
+-	https://www.phoenixpeca.xyz/how-to-install-humhub-on-ubuntu-16-04-in-digitalocean/
