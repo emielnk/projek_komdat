@@ -1,10 +1,7 @@
 HUMHUB "Social Networks and Forum"
 ===================
-----------
 
-![](http://www.comneton.com/images/logos/logo-humhub.jpg)
-
-----------
+<h1 align="center"><img src="http://www.comneton.com/images/logos/logo-humhub.jpg"></h1>
 
 ----------
 Kelompok 14
