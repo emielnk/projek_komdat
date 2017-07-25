@@ -83,7 +83,7 @@ Instalasi
 lite php7.0-apc -y
 > $ sudo systemctl restart apache2 
 	
-## Cara Pemaikaian
+## Cara Pemakaian
 
 ### Konfigurasi
 
@@ -113,3 +113,22 @@ lite php7.0-apc -y
 
 #### 9. tampilan dashboard anda
 ![9](https://github.com/emielnk/projek_komdat/blob/master/image/9.PNG)
+
+## Pembahasan
+Sosial media sekarang ini sudah banyak berkembang dikalangan masyarakat. Hampir semua masyarakat dunia memiliki lebih dari 1 akun sosial media baik itu aplikasi yang sama ataupun berbeda. Kemudahan yang diberikan oleh sosial media mulai menghempaskan fiture sms yang ada diberbagi ponsel-posel terdahulu. Terlebih lagi kemunculan ponsel pintar membuat sosial media dapat digunakan dan diakses pada kepalan tangan manusia, sehingga membuat masyarakat dimanjakan akan berbagai kemudahan. Salah satu perangkat lunak sosial media adalah HumHub. Humhub adalah perangkat lunak yang menyediakan kemudahan dalam membuat sebuah sosial media milik kita sendiri. adapun keunggulan-keunggulan sosial media yang ditawarkan oleh aplikasi ini adalah sebagai berikut.
+### Keunggulan
+-	Open Source sehingga kalian dapat mendesain atau memodifikasi sosial media sesuai keinginan sendiri.
+-	Gratis, tersedia module-module / plugin yang yang beragam dan juga gratis sehingga user dapat membuat sosial media buatannya lebih menarik.
+-	Mudah membuat grup / komunitas page sehingga mempermudah dalam interaksi antar sesama anggota.
+-	Dapat dijalan pada Server pribadi sehingga keamanan data, dan lain sebagainya lebih terjamin.
+-	Selain itu Humhub menyediakan layanan service yang dapat membantu user dalam membangun sosial medianya sendiri.
+
+### Kelemahan
+-	Sulit dalam pengimplementasian module-module yang disediakan.
+-	Pendaftaran yang hanya bisa dilakukan oleh admin sehingga sulit untuk mengkomersilkan sosial media tersebut.
+-	Base desain tampilan yang kaku dan juga user guide yang terbatas membuat humhub menjadi kurang menarik.
+
+### OSSN dan Elgg VS Humhub
+-	Elgg menyediakan plugin API sehingga dapat diintegrasikan dengan website-website lain.
+-	OSSN menyediakan feture multilanguage sehingga dapat diimplentasikan dalam berbagai pilihan bahasa yang tersedia.
+-	Elgg dan OSSN memiliki komunitas yang lebih luas dibandingkan Humhab sehingga dapat memecahkan masalah lebih cepat dan tepat.
