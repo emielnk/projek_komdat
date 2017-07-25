@@ -2,6 +2,9 @@ HUMHUB "Social Networks and Forum"
 ===================
 ----------
 ![](http://www.comneton.com/images/logos/logo-humhub.jpg)
+----------
+
+----------
 Kelompok 14
 
  1. Parhan Zikkry Padly (G614140011)
