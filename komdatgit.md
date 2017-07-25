@@ -14,14 +14,14 @@ Kelompok 14
  
 
 -------------
-##Sekilas Tentang
+## Sekilas Tentang
 ---
 Humhub ada sebuah free social network software dan framework yang dibangun untuk memberikan anda sebuah alat komunikasi dan kolaborasi yang mudah. Ini ringan, kuat dan dilengkapi dengan antarmuka yang user-friendly. Dengan HumHub Anda dapat membuat jaringan Anda sendiri disesuaikan sosial, intranet sosial atau aplikasi perusahaan sosial yang besar yang benar-benar sesuai dengan kebutuhan Anda. Meningkatkan bisnis Anda, mendukung pelanggan Anda, mengajar siswa atau mengatur klub sepak bola Anda. Ini pada Anda.
 
 Instalasi
 ---
 
-###<i class="icon-pencil">Requirement</i>
+### <i class="icon-pencil">Requirement</i>
 
 
  - LAMP Server 
@@ -33,9 +33,9 @@ Instalasi
  - PHP INTL Extension (http://php.net/manual/en/intro.intl.php)
  - PHP FileInfo Extension (http://php.net/manual/en/fileinfo.installation.php)
 
-###<i class="icon-pencil">Langkah instalasi Requirement awal dalam CLI.</i>
+### <i class="icon-pencil">Langkah instalasi Requirement awal dalam CLI.</i>
 
-###<i class="icon-pencil">Pra Instalasi</i>
+### <i class="icon-pencil">Pra Instalasi</i>
 > $ sudo apt-get install lamp-server
 > 
 > $ sudo apt-get install php7.0-curl php7.0-gd -y 
@@ -44,8 +44,8 @@ Instalasi
 >
 > $ sudo systemctl enable apache2 
 
-###<i class="icon-pencil">Instalasi HumHub</i> 
-##### #Now login to the MySQL Database to create database and user for Humhub.
+### <i class="icon-pencil">Instalasi HumHub</i> 
+##### # Now login to the MySQL Database to create database and user for Humhub.
 > 
 > $ sudo mysql -u root -p
 >  
@@ -62,18 +62,18 @@ Instalasi
 > mysql> exit
 
 
-#####  #Download the Humhub package
+#####  # Download the Humhub package
 >  
 > $sudo wget http://liquidtelecom.dl.sourceforge.net/project/humhub/humhub-1.1.0.tar.gz
 > 
-#####  #Move the downloaded package into the default document root of your webserver.
+#####  # Move the downloaded package into the default document root of your webserver.
 > $ sudo mv humhub-1.1.0.tar.gz /var/www/html
 
 > $ sudo cd /var/www/html 
-#####  #Extract the downloaded package by running the belowcommand.
+#####  # Extract the downloaded package by running the belowcommand.
 > $ sudo /var/www/html# tar -zxvf humhub-1.1.0.tar.gz
 
-#####  #Rename the directory that is created after the extraction.
+#####  # Rename the directory that is created after the extraction.
 > $ sudo /var/www/html# mv humhub-1.1.0 humhub
 
 
