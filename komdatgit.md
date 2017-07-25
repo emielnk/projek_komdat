@@ -1,7 +1,9 @@
 HUMHUB "Social Networks and Forum"
 ===================
 ----------
+<p align="center">
 ![](http://www.comneton.com/images/logos/logo-humhub.jpg)
+</p>
 ----------
 
 ----------
@@ -21,7 +23,7 @@ Humhub ada sebuah free social network software dan framework yang dibangun untuk
 Instalasi
 ---
 
-### <i class="icon-pencil">Requirement</i>
+## <i class="icon-pencil">Requirement</i>
 
 
  - LAMP Server 
@@ -33,7 +35,7 @@ Instalasi
  - PHP INTL Extension (http://php.net/manual/en/intro.intl.php)
  - PHP FileInfo Extension (http://php.net/manual/en/fileinfo.installation.php)
 
-### <i class="icon-pencil">Langkah instalasi Requirement awal dalam CLI.</i>
+## <i class="icon-pencil">Langkah instalasi Requirement awal dalam CLI.</i>
 
 ### <i class="icon-pencil">Pra Instalasi</i>
 > $ sudo apt-get install lamp-server
@@ -45,42 +47,46 @@ Instalasi
 > $ sudo systemctl enable apache2 
 
 ### <i class="icon-pencil">Instalasi HumHub</i> 
-##### Now login to the MySQL Database to create database and user for Humhub.
-> 
-> $ sudo mysql -u root -p
->  
-> mysql> create database humhub;
-> 
-> mysql> CREATE USER 'komdat14'@'localhost' IDENTIFIED BY '123';
->  
-> mysql> GRANT ALL ON humhub.* TO 'komdat14'@'localhost';
->   
-> mysql> SET GLOBAL sql_mode= 'TRADITIONAL'
->   
-> mysql> flush privileges;
->    
-> mysql> exit
+	```
+	##### Now login to the MySQL Database to create database and user for Humhub.
+	> 
+	> $ sudo mysql -u root -p
+	>  
+	> mysql> create database humhub;
+	> 
+	> mysql> CREATE USER 'komdat14'@'localhost' IDENTIFIED BY '123';
+	>  
+	> mysql> GRANT ALL ON humhub.* TO 'komdat14'@'localhost';
+	>   
+	> mysql> SET GLOBAL sql_mode= 'TRADITIONAL'
+	>   
+	> mysql> flush privileges;
+	>    
+	> mysql> exit
 
 
-##### Download the Humhub package
->  
-> $sudo wget http://liquidtelecom.dl.sourceforge.net/project/humhub/humhub-1.1.0.tar.gz
-> 
-##### Move the downloaded package into the default document root of your webserver.
-> $ sudo mv humhub-1.1.0.tar.gz /var/www/html
+	##### Download the Humhub package
+	>  
+	> $sudo wget http://liquidtelecom.dl.sourceforge.net/project/humhub/humhub-1.1.0.tar.gz
+	> 
+	##### Move the downloaded package into the default document root of your webserver.
+	> $ sudo mv humhub-1.1.0.tar.gz /var/www/html
 
-> $ sudo cd /var/www/html 
-##### Extract the downloaded package by running the belowcommand.
-> $ sudo /var/www/html# tar -zxvf humhub-1.1.0.tar.gz
+	> $ sudo cd /var/www/html 
+	##### Extract the downloaded package by running the belowcommand.
+	> $ sudo /var/www/html# tar -zxvf humhub-1.1.0.tar.gz
 
-##### Rename the directory that is created after the extraction.
-> $ sudo /var/www/html# mv humhub-1.1.0 humhub
+	##### Rename the directory that is created after the extraction.
+	> $ sudo /var/www/html# mv humhub-1.1.0 humhub
 
 
-##### Set the full permissions for the HumHub directory using chmod command.
-> $ sudo /var/www/html# chmod -R 777 humhub 
+	##### Set the full permissions for the HumHub directory using chmod command.
+	> $ sudo /var/www/html# chmod -R 777 humhub 
 
-##### <i class="icon-pencil">Melengkapi Dependencies yang Kurang</i> 
-> $sudo /var/www/html# apt-get install php7.0-intl php7.0-ldap php7.0-sqlite php7.0-apc -y
->  
-> $ sudo systemctl restart apache2 
+	##### <i class="icon-pencil">Melengkapi Dependencies yang Kurang</i> 
+	> $sudo /var/www/html# apt-get install php7.0-intl php7.0-ldap php7.0-sqlite php7.0-apc -y
+	>  
+	> $ sudo systemctl restart apache2 
+	```
+
+## Screenshot
