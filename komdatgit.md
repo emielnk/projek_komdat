@@ -85,7 +85,8 @@ lite php7.0-apc -y
 	
 ## Cara Pemaikaian
 
-Konfigurasi
+###Konfigurasi
+
 	1. ini adalah halaman pertama setelah berhasil menginsttal humhub
 	![1](https://github.com/emielnk/projek_komdat/blob/master/image/1.PNG)
 	
