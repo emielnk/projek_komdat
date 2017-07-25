@@ -47,7 +47,7 @@ Instalasi
 > $ sudo systemctl enable apache2 
 
 ### <i class="icon-pencil">Instalasi HumHub</i> 
-	```
+	
 	##### Now login to the MySQL Database to create database and user for Humhub.
 	> 
 	> $ sudo mysql -u root -p
@@ -87,6 +87,6 @@ Instalasi
 	> $sudo /var/www/html# apt-get install php7.0-intl php7.0-ldap php7.0-sqlite php7.0-apc -y
 	>  
 	> $ sudo systemctl restart apache2 
-	```
+	
 
 ## Screenshot
