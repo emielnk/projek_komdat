@@ -18,7 +18,7 @@ Humhub ada sebuah free social network software dan framework yang dibangun untuk
 ##Instalasi
 ---
 
-###<i class="icon-pencil"></i>Requirement
+###<i class="icon-pencil">Requirement</i>
 
 
  - LAMP Server 
