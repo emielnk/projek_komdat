@@ -87,29 +87,29 @@ lite php7.0-apc -y
 
 ### Konfigurasi
 
-1. ini adalah halaman pertama setelah berhasil menginsttal humhub
+#### 1. ini adalah halaman pertama setelah berhasil menginsttal humhub
 ![1](https://github.com/emielnk/projek_komdat/blob/master/image/1.PNG)
 	
-2. Buatlah nama social network yang kalian inginkan
+#### 2. Buatlah nama social network yang kalian inginkan
 ![2](https://github.com/emielnk/projek_komdat/blob/master/image/2.PNG)
 	
-3. pilih konfigurasi untuk apa social medai anda
+#### 3. pilih konfigurasi untuk apa social medai anda
 ![3](https://github.com/emielnk/projek_komdat/blob/master/image/3.PNG)
 
-4. pilih konfigurasi keamanan social media anda
+#### 4. pilih konfigurasi keamanan social media anda
 ![4](https://github.com/emielnk/projek_komdat/blob/master/image/4.PNG)
 
-5. pilih modul-modul yang bisa digunakan di social media anda
+#### 5. pilih modul-modul yang bisa digunakan di social media anda
 ![5](https://github.com/emielnk/projek_komdat/blob/master/image/5.PNG)
 
-6. isi form admin sesuai identitas anda dan tekan create account
+#### 6. isi form admin sesuai identitas anda dan tekan create account
 ![6](https://github.com/emielnk/projek_komdat/blob/master/image/6.PNG)
 
-7. konfigurasi admin selesai
+#### 7. konfigurasi admin selesai
 ![7](https://github.com/emielnk/projek_komdat/blob/master/image/7.PNG)
 
-8. login dengan akun admin yang telah anda buat sebelumnya
+#### 8. login dengan akun admin yang telah anda buat sebelumnya
 ![8](https://github.com/emielnk/projek_komdat/blob/master/image/8.PNG)
 
-9. tampilan dashboard anda
+#### 9. tampilan dashboard anda
 ![9](https://github.com/emielnk/projek_komdat/blob/master/image/9.PNG)
